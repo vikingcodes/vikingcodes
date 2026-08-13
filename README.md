@@ -6,7 +6,7 @@
 
 **Amazon SP-API Developer | Senior .NET / C# Developer**
 
-📩 [Hire Me](mailto:virenderverma@live.com) · 💼 [Upwork Profile](YOUR_UPWORK_PROFILE_URL)
+📩 [Hire Me](mailto:virenderverma@live.com) 
 
 I'm a **Senior .NET Developer with 15+ years of software development experience**, specializing in **Amazon Selling Partner API (SP-API), C#, ASP.NET Core, Amazon Seller Central integrations, e-commerce platforms, SaaS applications, and API-driven systems**.
 
@@ -218,8 +218,6 @@ I'm available for **freelance, contract, consulting, and long-term development w
 **Freelance · Contract · Remote · Consulting · Long-term Development**
 
 📩 **Email:** [virenderverma@live.com](mailto:virenderverma@live.com)
-
-💼 **Upwork:** [Hire me on Upwork](YOUR_UPWORK_PROFILE_URL)
 
 ---
 
