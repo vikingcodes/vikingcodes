@@ -2,6 +2,12 @@
 
 ## Amazon SP-API Developer | Senior .NET / C# Developer
 
+### 💼 Available for Freelance & Contract Work
+
+**Amazon SP-API Developer | Senior .NET / C# Developer**
+
+📩 [Hire Me](mailto:virenderverma@live.com) · 💼 [Upwork Profile](YOUR_UPWORK_PROFILE_URL)
+
 I'm a **Senior .NET Developer with 15+ years of software development experience**, specializing in **Amazon Selling Partner API (SP-API), C#, ASP.NET Core, Amazon Seller Central integrations, e-commerce platforms, SaaS applications, and API-driven systems**.
 
 I build and integrate **Amazon SP-API solutions** for sellers, agencies, and e-commerce platforms, including marketplace data synchronization, orders, listings, inventory, reports, feeds, catalog data, finances, authentication, and background processing.
@@ -143,33 +149,6 @@ I'm particularly interested in building:
 
 ---
 
-## 🛠️ How I Can Help
-
-If you're building an Amazon-related application, I can help with:
-
-**Amazon SP-API → .NET / C# → Database → SaaS / E-commerce**
-
-- Amazon SP-API integration
-- Seller authorization and authentication
-- Login with Amazon (LWA)
-- Amazon order synchronization
-- Product and listing synchronization
-- Inventory synchronization
-- Amazon reports processing
-- Amazon feeds processing
-- Catalog integrations
-- Pricing integrations
-- Financial data integrations
-- Marketplace integrations
-- Background workers and scheduled jobs
-- API architecture
-- Database design
-- Rate limiting and retry strategies
-- Cloud deployment
-- Existing SP-API integration troubleshooting
-
----
-
 ## 📌 Featured Projects
 
 I'm building and maintaining projects around:
@@ -190,6 +169,65 @@ More public reference projects demonstrating **Amazon SP-API, C#, and .NET archi
 My current professional focus is:
 
 > **Building reliable Amazon marketplace integrations and SaaS applications using C#, .NET, ASP.NET Core, cloud services, databases, and modern API architecture.**
+
+---
+
+## 💼 Hire Me
+
+### Amazon SP-API Developer | Senior .NET / C# Developer
+
+Looking for an experienced developer for an **Amazon SP-API, Amazon Seller Central, e-commerce, SaaS, or .NET project**?
+
+I'm available for **freelance, contract, consulting, and long-term development work**.
+
+### 🛒 Amazon SP-API
+
+- Amazon Selling Partner API (SP-API)
+- Amazon Seller Central integrations
+- Login with Amazon (LWA)
+- OAuth authentication
+- Orders API
+- Listings API
+- Inventory API
+- Reports API
+- Feeds API
+- Catalog API
+- Pricing API
+- Finances API
+- Notifications
+- Multi-marketplace integrations
+- Data synchronization
+- Rate limiting & retry handling
+
+### 💻 .NET Development
+
+- C#
+- .NET / ASP.NET Core
+- REST API development
+- Backend architecture
+- SQL Server / PostgreSQL
+- Redis
+- Background processing
+- AWS / Azure
+- Docker
+- SaaS applications
+- E-commerce platforms
+
+### 🤝 Engagements
+
+**Freelance · Contract · Remote · Consulting · Long-term Development**
+
+📩 **Email:** [virenderverma@live.com](mailto:virenderverma@live.com)
+
+💼 **Upwork:** [Hire me on Upwork](YOUR_UPWORK_PROFILE_URL)
+
+---
+
+### 🚀 Have an Amazon SP-API or .NET project?
+
+**Let's build it.**
+
+📩 [Contact Me](mailto:virenderverma@live.com) · 💼 [Hire Me on Upwork](YOUR_UPWORK_PROFILE_URL)
 
 ---
 
