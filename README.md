@@ -1,28 +1,201 @@
-# 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Azure & MAUI.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - virenderverma@live.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favourite song is Grateful by Neffex.
+# 👋 Hi, I'm Virender Verma
 
+### Senior .NET Developer | Amazon SP-API Specialist | E-commerce & SaaS Integrations
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/virenderverma/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/virender) 
+I'm a **software developer with 15+ years of experience** building backend systems, APIs, SaaS platforms, e-commerce solutions, and business applications.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikingcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikingcodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikingcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My primary expertise is **C# / .NET and backend engineering**, with a strong focus on **Amazon Selling Partner API (SP-API)** integrations and marketplace automation.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+I enjoy building reliable systems that connect complex APIs, databases, marketplaces, and business workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vikingcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/virender) 
+## 🚀 What I Do
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+- 🟦 **C# / .NET / ASP.NET Core**
+- 🛒 **Amazon Selling Partner API (SP-API)**
+- 🔐 Amazon Seller authorization & Login with Amazon (LWA)
+- 📦 Amazon Orders, Listings & Inventory integrations
+- 📊 Amazon Reports & Feeds
+- 💰 Amazon Finances & marketplace data
+- 🔄 Marketplace data synchronization & automation
+- 🌐 REST APIs & third-party API integrations
+- ☁️ AWS / Azure cloud applications
+- 🗄️ SQL Server / PostgreSQL
+- ⚡ Redis & background processing
+- 🐳 Docker & cloud deployments
+- 🚀 SaaS application architecture
+
+---
+
+## 🛒 Amazon SP-API Expertise
+
+I work with Amazon Selling Partner API integrations and the engineering challenges involved in building production-grade marketplace applications.
+
+### SP-API Areas
+
+- **Selling Partner API authentication**
+- Login with Amazon (LWA)
+- OAuth authorization
+- Refresh/access token management
+- Orders API
+- Listings Items API
+- Catalog Items API
+- Reports API
+- Feeds API
+- Inventory API
+- Product Pricing API
+- Finances API
+- Notifications
+- Restricted Data Tokens (RDT)
+- Marketplace & region management
+- Rate limiting
+- Retry & error handling
+- Background synchronization
+- Scheduled data processing
+- Multi-seller / multi-marketplace architectures
+
+### Typical Integration Architecture
+
+```text
+Amazon Seller
+     │
+     ▼
+Login with Amazon / LWA
+     │
+     ▼
+.NET / ASP.NET Core Application
+     │
+     ├── Orders
+     ├── Products
+     ├── Listings
+     ├── Inventory
+     ├── Reports
+     ├── Feeds
+     ├── Finances
+     └── Notifications
+     │
+     ▼
+Database / Redis / Background Jobs
+     │
+     ▼
+SaaS / E-commerce Application
+```
+
+---
+
+## 💻 Core Technology Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### Amazon / E-commerce
+
+![Amazon SP-API](https://img.shields.io/badge/Amazon%20SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Databases
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+## 🧩 Engineering Interests
+
+I'm particularly interested in building:
+
+- Amazon marketplace automation
+- E-commerce SaaS platforms
+- API integration platforms
+- High-reliability backend services
+- Data synchronization systems
+- Developer tools
+- Cloud-native applications
+- Performance-focused web applications
+- Business automation software
+
+---
+
+## 📌 Featured Projects
+
+I'm actively building and maintaining projects around:
+
+- 🛒 Amazon marketplace & SP-API integrations
+- 🌐 SaaS platforms
+- ⚙️ Developer tools
+- 📊 Data and information platforms
+- 🔐 Privacy-focused web services
+- ⌨️ Online typing and examination platforms
+
+> More public reference projects demonstrating my Amazon SP-API and .NET architecture are being added.
+
+---
+
+## 🛠️ How I Can Help
+
+If you're building an Amazon-related application, I can help with:
+
+**Amazon SP-API → .NET backend → Database → SaaS application**
+
+Including:
+
+- SP-API integration
+- Seller authorization
+- Amazon order synchronization
+- Product/listing synchronization
+- Inventory synchronization
+- Reports processing
+- Feeds processing
+- Marketplace integrations
+- API architecture
+- Background workers
+- Database design
+- Cloud deployment
+- Existing SP-API integration troubleshooting
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virenderverma/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikingcodes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virenderverma@live.com)
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=vikingcodes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikingcodes&hide_border=true)
+
+---
+
+### 💡 Currently Building
+
+**Software, SaaS platforms, developer tools, and Amazon marketplace integrations with .NET.**
+
+---
+
+⭐ If you find one of my projects useful, consider giving it a star.
