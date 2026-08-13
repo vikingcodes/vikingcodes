@@ -1,43 +1,46 @@
 # 👋 Hi, I'm Virender Verma
 
-### Senior .NET Developer | Amazon SP-API Specialist | E-commerce & SaaS Integrations
+## Amazon SP-API Developer | Senior .NET / C# Developer
 
-I'm a **software developer with 15+ years of experience** building backend systems, APIs, SaaS platforms, e-commerce solutions, and business applications.
+I'm a **Senior .NET Developer with 15+ years of software development experience**, specializing in **Amazon Selling Partner API (SP-API), C#, ASP.NET Core, Amazon Seller Central integrations, e-commerce platforms, SaaS applications, and API-driven systems**.
 
-My primary expertise is **C# / .NET and backend engineering**, with a strong focus on **Amazon Selling Partner API (SP-API)** integrations and marketplace automation.
-
-I enjoy building reliable systems that connect complex APIs, databases, marketplaces, and business workflows.
+I build and integrate **Amazon SP-API solutions** for sellers, agencies, and e-commerce platforms, including marketplace data synchronization, orders, listings, inventory, reports, feeds, catalog data, finances, authentication, and background processing.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Core Expertise
 
+- 🛒 **Amazon SP-API Developer**
+- 🔗 **Amazon Selling Partner API**
+- 💻 **Amazon SP-API with C# / .NET**
+- 🏪 **Amazon Seller Central API Integration**
+- 🌎 **Amazon Marketplace Integration**
+- 📦 **Amazon FBA / Seller Integrations**
+- 🔐 **Amazon SP-API Authentication & LWA**
+- 📋 **Amazon Orders API**
+- 📊 **Amazon Reports API**
+- 📤 **Amazon Feeds API**
+- 🏷️ **Amazon Listings & Catalog APIs**
+- 📦 **Amazon Inventory Integration**
+- 💰 **Amazon Finances API**
+- 🔄 **Marketplace Data Synchronization**
+- ⚙️ **API Integration & Automation**
 - 🟦 **C# / .NET / ASP.NET Core**
-- 🛒 **Amazon Selling Partner API (SP-API)**
-- 🔐 Amazon Seller authorization & Login with Amazon (LWA)
-- 📦 Amazon Orders, Listings & Inventory integrations
-- 📊 Amazon Reports & Feeds
-- 💰 Amazon Finances & marketplace data
-- 🔄 Marketplace data synchronization & automation
-- 🌐 REST APIs & third-party API integrations
-- ☁️ AWS / Azure cloud applications
-- 🗄️ SQL Server / PostgreSQL
-- ⚡ Redis & background processing
-- 🐳 Docker & cloud deployments
-- 🚀 SaaS application architecture
+- 🚀 **E-commerce SaaS Development**
 
 ---
 
 ## 🛒 Amazon SP-API Expertise
 
-I work with Amazon Selling Partner API integrations and the engineering challenges involved in building production-grade marketplace applications.
+I focus on building reliable and maintainable integrations with the **Amazon Selling Partner API (SP-API)** and related Amazon seller services.
 
-### SP-API Areas
+### Amazon SP-API
 
-- **Selling Partner API authentication**
+- Selling Partner API authentication
 - Login with Amazon (LWA)
 - OAuth authorization
-- Refresh/access token management
+- Access & refresh token management
+- Restricted Data Tokens (RDT)
 - Orders API
 - Listings Items API
 - Catalog Items API
@@ -47,70 +50,71 @@ I work with Amazon Selling Partner API integrations and the engineering challeng
 - Product Pricing API
 - Finances API
 - Notifications
-- Restricted Data Tokens (RDT)
-- Marketplace & region management
+- Marketplace and region management
 - Rate limiting
-- Retry & error handling
+- Retry and error handling
 - Background synchronization
 - Scheduled data processing
-- Multi-seller / multi-marketplace architectures
+- Multi-seller integrations
+- Multi-marketplace architectures
 
-### Typical Integration Architecture
+### Typical Amazon Integration
 
 ```text
-Amazon Seller
-     │
-     ▼
-Login with Amazon / LWA
-     │
-     ▼
-.NET / ASP.NET Core Application
-     │
-     ├── Orders
-     ├── Products
-     ├── Listings
-     ├── Inventory
-     ├── Reports
-     ├── Feeds
-     ├── Finances
-     └── Notifications
-     │
-     ▼
-Database / Redis / Background Jobs
-     │
-     ▼
-SaaS / E-commerce Application
+Amazon Seller / Seller Central
+              │
+              ▼
+     Login with Amazon (LWA)
+              │
+              ▼
+       Amazon SP-API
+              │
+              ▼
+    .NET / ASP.NET Core API
+              │
+      ┌───────┼────────┐
+      ▼       ▼        ▼
+   Orders  Listings  Inventory
+      │       │        │
+      ├───────┼────────┤
+      ▼       ▼        ▼
+ Reports    Feeds    Catalog
+              │
+              ▼
+       Background Jobs
+              │
+              ▼
+      SQL / PostgreSQL
+              │
+              ▼
+       SaaS / E-commerce
 ```
 
 ---
 
-## 💻 Core Technology Stack
+## 💻 Technology Stack
 
-### Backend
+### Backend & APIs
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-### Amazon / E-commerce
-
 ![Amazon SP-API](https://img.shields.io/badge/Amazon%20SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Databases
+### Amazon & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases & Infrastructure
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & Infrastructure
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Frontend
 
@@ -121,25 +125,54 @@ SaaS / E-commerce Application
 
 ---
 
-## 🧩 Engineering Interests
+## 🧩 What I Build
 
 I'm particularly interested in building:
 
 - Amazon marketplace automation
+- Amazon Seller Central integrations
+- Amazon SP-API applications
 - E-commerce SaaS platforms
+- Marketplace management systems
 - API integration platforms
-- High-reliability backend services
 - Data synchronization systems
-- Developer tools
+- High-reliability backend services
 - Cloud-native applications
-- Performance-focused web applications
 - Business automation software
+- Developer tools
+
+---
+
+## 🛠️ How I Can Help
+
+If you're building an Amazon-related application, I can help with:
+
+**Amazon SP-API → .NET / C# → Database → SaaS / E-commerce**
+
+- Amazon SP-API integration
+- Seller authorization and authentication
+- Login with Amazon (LWA)
+- Amazon order synchronization
+- Product and listing synchronization
+- Inventory synchronization
+- Amazon reports processing
+- Amazon feeds processing
+- Catalog integrations
+- Pricing integrations
+- Financial data integrations
+- Marketplace integrations
+- Background workers and scheduled jobs
+- API architecture
+- Database design
+- Rate limiting and retry strategies
+- Cloud deployment
+- Existing SP-API integration troubleshooting
 
 ---
 
 ## 📌 Featured Projects
 
-I'm actively building and maintaining projects around:
+I'm building and maintaining projects around:
 
 - 🛒 Amazon marketplace & SP-API integrations
 - 🌐 SaaS platforms
@@ -148,31 +181,15 @@ I'm actively building and maintaining projects around:
 - 🔐 Privacy-focused web services
 - ⌨️ Online typing and examination platforms
 
-> More public reference projects demonstrating my Amazon SP-API and .NET architecture are being added.
+More public reference projects demonstrating **Amazon SP-API, C#, and .NET architecture** will be added over time.
 
 ---
 
-## 🛠️ How I Can Help
+## 🎯 Professional Focus
 
-If you're building an Amazon-related application, I can help with:
+My current professional focus is:
 
-**Amazon SP-API → .NET backend → Database → SaaS application**
-
-Including:
-
-- SP-API integration
-- Seller authorization
-- Amazon order synchronization
-- Product/listing synchronization
-- Inventory synchronization
-- Reports processing
-- Feeds processing
-- Marketplace integrations
-- API architecture
-- Background workers
-- Database design
-- Cloud deployment
-- Existing SP-API integration troubleshooting
+> **Building reliable Amazon marketplace integrations and SaaS applications using C#, .NET, ASP.NET Core, cloud services, databases, and modern API architecture.**
 
 ---
 
@@ -194,7 +211,7 @@ Including:
 
 ### 💡 Currently Building
 
-**Software, SaaS platforms, developer tools, and Amazon marketplace integrations with .NET.**
+**Amazon marketplace integrations, SaaS platforms, developer tools, and modern .NET applications.**
 
 ---
 
